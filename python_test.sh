@@ -1,0 +1,1 @@
+python3 python/DMS_core_test.py

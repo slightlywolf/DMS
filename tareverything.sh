@@ -1,0 +1,1 @@
+tar --exclude='./front/node_modules' --exclude='./front/.git' --exclude='./python/.git' --exclude='./docker_images'  -zcvf ./dms.tar.gz .

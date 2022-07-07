@@ -1,0 +1,31 @@
+{
+    "1": {
+        "uiName": "Fake Battery",
+        "uid": 1,
+        "description": "A fake battery i made to test the front end",
+        "controls": {
+            "mosfet_toggle": {
+                "name": "mosfet_toggle",
+                "uiName": "Toggle Mosfet",
+                "description": "Toggles the mosfets on and off"
+            },
+            "shutdown": {
+                "name": "shutdown",
+                "uiName": "Shutdown",
+                "description": "Shuts down the fake battery"
+            }
+        },
+        "polls": {
+            "get_voltage": {
+                "name": "get_voltage",
+                "uiName": "Get Voltage",
+                "description": "Gets the voltage"
+            },
+            "get_current": {
+                "name": "get_current",
+                "uiName": "Get Current",
+                "description": "Gets the voltage"
+            }
+        }
+    }
+}

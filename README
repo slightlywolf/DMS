@@ -1,0 +1,7 @@
+python flask handles the python back end api
+
+front handles the front end api
+
+
+Both the front and the back end are dockerised, this is so they can be deployed on site
+

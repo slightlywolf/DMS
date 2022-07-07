@@ -1,0 +1,1 @@
+ng serve --open --configuration development --watch --live-reload --poll=1000
